@@ -20,6 +20,10 @@ Dieses Dokument fasst die grundlegenden Konzepte der privaten Altersvorsorge mit
 *   **Vorteil:** Enorm breite Streuung (Diversifikation) über hunderte oder tausende Unternehmen in einem einzigen Wertpapier.
 *   **Kosten:** Günstig durch den Wegfall aktiver Fondsmanager.
 
+### Thesaurierend (Wiederanlegend)
+*   **Prinzip:** Dividenden und Zinsen werden automatisch im ETF reinvestiert, statt ausgezahlt zu werden.
+*   **Vorteil:** Der Zinseszinseffekt wird voll ausgeschöpft, da das Kapital inklusive Erträgen sofort wieder für dich arbeitet.
+
 ---
 
 ## 2. Das neue Altersvorsorgedepot (ab 2027)
@@ -27,9 +31,9 @@ Dieses Dokument fasst die grundlegenden Konzepte der privaten Altersvorsorge mit
 Die Bundesregierung plant ein neues, zertifiziertes Altersvorsorgedepot, um das Sparen für das Alter durch steuerliche Vorteile und Flexibilität attraktiver zu machen.
 
 ### Zentrale Vorteile
-*   **Steuerstundung:** Während der Ansparphase fallen keine Steuern auf Dividenden, Zinsen oder Kursgewinne an. Das Kapital kann voll reinvestiert werden (Zinseszinseffekt).
-*   **Wegfall der Vorabpauschale:** Keine jährliche Steuerbelastung während der Laufzeit.
-*   **Flexibilität:** Im Gegensatz zu starren Versicherungen soll das Depot wie ein wertpapierbasiertes Depot funktionieren, das Umschichtungen (z. B. von Aktien zu Anleihen) innerhalb des steuerbegünstigten Mantels ermöglicht.
+*   **Steuerstundung:** Während der Ansparphase fallen keine Steuern auf Dividenden, Zinsen oder Kursgewinne an. Das Kapital kann voll reinvestiert werden.
+*   **Wegfall der Vorabpauschale:** Keine jährliche Steuerbelastung (auch bei thesaurierenden ETFs nicht) während der Laufzeit.
+*   **Flexibilität:** Umschichtungen (z. B. von Aktien zu Anleihen) innerhalb des steuerbegünstigten Mantels sind möglich, ohne sofort Steuern auszulösen.
 
 ### Auszahlung im Alter
 Das Konzept basiert auf einem Mix aus:
@@ -42,7 +46,7 @@ Das Konzept basiert auf einem Mix aus:
 
 Eine bewährte Strategie für das Altersvorsorgedepot ist die schrittweise Anpassung des Portfolios an das Alter:
 
-1.  **Wachstumsphase (Jung):** Fokus auf Aktien-ETFs (z. B. 100 % Aktien), um hohe Renditen zu erzielen. Volatilität wird durch den langen Zeitraum ausgeglichen.
+1.  **Wachstumsphase (Jung):** Fokus auf thesaurierende Aktien-ETFs (z. B. 100 % Aktien), um hohe Renditen zu erzielen.
 2.  **Übergangsphase (Mittleres Alter):** Schrittweise Umschichtung von Aktien-ETFs in Anleihen-ETFs, um das erreichte Vermögen gegen Börsenschwankungen abzusichern.
 3.  **Sicherheitsphase (Rentenalter):** Erhöhter Anteil an stabilen Anleihen und Durchführung der Renten-Verrentung.
 
